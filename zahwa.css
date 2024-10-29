@@ -1,0 +1,18 @@
+.myimage {
+	width: 250px;
+	height: 450px;
+	position: relative;
+	bottom: 300px;
+	left: 1000px;
+}
+.footer  {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	
+	
